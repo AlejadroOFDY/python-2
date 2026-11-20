@@ -1,0 +1,13 @@
+cnn_convoluciones_paso_a_paso.ipynb
+Fundamentos de REDES NEURONALES.pdf
+qwen3.5-4b_q4_k_m.gguf
+
+# Python
+__pycache__/
+*.pyc
+
+# Agente ADK
+agent_adk_recalde_alejandro/.venv/
+agent_adk_recalde_alejandro/.adk/
+agent_adk_recalde_alejandro/vector_store/
+agent_adk_recalde_alejandro/.pytest_cache/
